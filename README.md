@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there! 👋 I'm Ivan Soji Varghese
 
-<!--
-**ivansojivarghese/ivansojivarghese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong focus on **Data Science and AI**. I enjoy working with **Agile methodologies**, solving complex problems, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** Python, Java, C, SQL, Ruby, JavaScript (TypeScript, Node.js)
+- **Frameworks & Tools:** AWS, Git/GitHub, Docker, CI/CD, FastAPI, LangChain, SpringBoot
+- **Data Science & AI:** Pandas, NumPy, Matplotlib, Decision Trees, Random Forests, OpenAI API
+
+---
+
+### 📌 Current Focus
+- 🎓 **NTU Student** - Courses in **Data Structures & Algorithms, Software Engineering, Databases, AI & Machine Learning, Web Development**
+- 🔍 Researching **AI-driven Fact-Checking** and **Predictive Analytics**
+- 📊 Developing **Machine Learning Models** for data-driven insights
+
+---
+
+### 📈 GitHub Stats
+![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivansojivarghese&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivansojivarghese&layout=compact&theme=radical)
+
+---
+
+### 🌱 Learning & Exploring
+- 🎥 Exploring **Multimodal AI for real-time information verification**
+- 📷 Passionate about **photography, cooking, and skating**
+
+---
+
+### 💬 Connect with Me
+- 📩 [Email](mailto:ivansojivarghese@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ivansojivarghese/)
+- 📝 [Portfolio](https://ivansojivarghese.github.io/)
+
+Thanks for visiting! ⭐ Feel free to explore my repositories [here](https://github.com/ivansojivarghese?tab=repositories). 🚀
