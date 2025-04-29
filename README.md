@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Ivan Soji Varghese
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong focus on **Data Science and AI**. I enjoy working with **Agile methodologies**, solving complex problems, and exploring new technologies.
+Welcome to my GitHub profile! I'm a dedicated **Software Engineer** with a keen interest in **Data Science and AI**. I enjoy solving complex problems and continuously exploring new technologies.
 
 ---
 
