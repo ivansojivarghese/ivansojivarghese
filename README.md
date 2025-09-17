@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Ivan!
 
-I'm a **developer & designer** with a keen interest in anything related to **Artificial Intelligence**. I enjoy learning new concepts, and using them to solve the world's greatest challenges.
+I'm a **developer & designer** with a keen interest in anything related to **Artificial Intelligence**. I enjoy learning new concepts to solve the world's greatest challenges.
 
 ---
 
