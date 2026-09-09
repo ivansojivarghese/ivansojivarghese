@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ivan!
+### Hi there. 👋 I'm Ivan!
 
 I'm an **engineer & builder** with a keen interest in **Artificial Intelligence**. I enjoy learning (unlearning & relearning) new concepts to solve the world's greatest challenges.
 
